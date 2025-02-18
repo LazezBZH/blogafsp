@@ -43,7 +43,7 @@ class Article {
    <div class="blogArticle">
   
                 <div class="article-header_full">
-                    <h3>${this.title} <img class="float" src="/assets/livres/01.webp" alt="livre de Hossam. Hossam's book"></h3>         
+                    <h3>${this.title} <img class="float" src="/assets/01.webp" alt="livre de Hossam. Hossam's book"></h3>         
                 </div>
                  
                 <p class="paras_full">${parasHtml}</p>
