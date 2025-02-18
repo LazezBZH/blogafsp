@@ -23,7 +23,7 @@ class Article {
                     <h3>${this.title}</h3>
                     <p class="date">${this.artDate}</p> 
                   
-                     <a class="showMore i18n" data-i18n="plus" href="/blog/article.html?article=${this.id}"}>${plus} </a>
+                     <a class="showMore i18n" data-i18n="plus" href="/article.html?article=${this.id}"}>${plus} </a>
           
                 </div>                  
                 <p class="paras">${parasHtml}</p>

@@ -62,12 +62,12 @@ function initBlog() {
       function goPrevious() {
         num--;
 
-        window.location.href = "/blog/article.html?article=" + num;
+        window.location.href = "/article.html?article=" + num;
       }
       function goNext() {
         num++;
 
-        window.location.href = "/blog/article.html?article=" + num;
+        window.location.href = "/article.html?article=" + num;
       }
     });
 }
